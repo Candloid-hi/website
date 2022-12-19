@@ -1,0 +1,25 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Mr. Luay Khaled
+N:Khaled;Luay;;Mr.;
+EMAIL;TYPE=INTERNET;TYPE=WORK:lkhaled@healthicon.co
+item1.EMAIL;TYPE=INTERNET:lkhaled@gmail.com
+item1.X-ABLabel:
+item2.TEL:+962 7 9936 6644
+item2.X-ABLabel:WhatsApp
+item3.ADR:;;;Amman;;;JO;Amman\nJO
+item3.X-ABLabel:
+item4.ORG:Health Icon
+item4.X-ABLabel:
+item5.TITLE:Managing Director
+item5.X-ABLabel:
+item6.URL:https\://www.healthicon.co
+item6.X-ABLabel:
+item7.URL:http\://www.google.com/profiles/102241770235099871463
+item7.X-ABLabel:PROFILE
+NOTE:For more information\, please visit our website https\://www.healthico
+ n.co
+PHOTO:https://lh3.googleusercontent.com/contacts/ABsqplt-rwkw0qqSKsQNtlVemM
+ 4bp8OzXjjSq3eNX5SQ6apqxG-_Ys5F
+CATEGORIES:myContacts
+END:VCARD
