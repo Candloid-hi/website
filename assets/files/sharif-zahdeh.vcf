@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Mr. Sharif Zahdeh
+N:Zahdeh;Sharif;;Mr.;
+GENDER:M
+EMAIL;TYPE=INTERNET;TYPE=WORK:sharif.zahdeh@healthicon.co
+EMAIL;TYPE=INTERNET;TYPE=PERSONAL:ph.sharif.zahdeh@gmail.com
+TEL;TYPE=CELL:+962 7 9666 6672
+ADR:;;;Amman;;;JO;Amman\nJO
+ORG:Health Icon
+TITLE:Business Development Manager
+URL;TYPE=WORK:https\://www.healthicon.co
+X-SOCIALPROFILE;TYPE=linkedin:https\://www.linkedin.com/in/sharif-zahdeh-mba-b-sc-pharmacy-91a51a27/
+PHOTO:https\://media.licdn.com/dms/image/D4D03AQE4eGujJ4OaTw/profile-displayphoto-shrink_800_800/0/1700372129501?e=1706140800&v=beta&t=F1gfxhPH6NgJ3CUqYupeeGEzO1R7ccdlCFsIVwplDFA
+LOGO:https\://healthicon.co/assets/images/side-1-526x95.png
+END:VCARD

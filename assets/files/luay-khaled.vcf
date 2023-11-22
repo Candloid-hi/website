@@ -2,24 +2,15 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Mr. Luay Khaled
 N:Khaled;Luay;;Mr.;
+GENDER:M
 EMAIL;TYPE=INTERNET;TYPE=WORK:lkhaled@healthicon.co
-item1.EMAIL;TYPE=INTERNET:lkhaled@gmail.com
-item1.X-ABLabel:
-item2.TEL:+962 7 9936 6644
-item2.X-ABLabel:WhatsApp
-item3.ADR:;;;Amman;;;JO;Amman\nJO
-item3.X-ABLabel:
-item4.ORG:Health Icon
-item4.X-ABLabel:
-item5.TITLE:Managing Director
-item5.X-ABLabel:
-item6.URL:https\://www.healthicon.co
-item6.X-ABLabel:
-item7.URL:http\://www.google.com/profiles/102241770235099871463
-item7.X-ABLabel:PROFILE
-NOTE:For more information\, please visit our website https\://www.healthico
- n.co
-PHOTO:https://lh3.googleusercontent.com/contacts/ABsqplt-rwkw0qqSKsQNtlVemM
- 4bp8OzXjjSq3eNX5SQ6apqxG-_Ys5F
-CATEGORIES:myContacts
+EMAIL;TYPE=INTERNET;TYPE=PERSONAL:lkhaled@gmail.com
+TEL;TYPE=CELL:+962 7 9936 6644
+ADR:;;;Amman;;;JO;Amman\nJO
+ORG:Health Icon
+TITLE:Managing Director
+URL;TYPE=WORK:https\://www.healthicon.co
+X-SOCIALPROFILE;TYPE=linkedin:https\://www.linkedin.com/in/luay-khaled-18b5b73/
+PHOTO:https\://media.licdn.com/dms/image/D4D03AQHsZLCZ_5LWIw/profile-displayphoto-shrink_800_800/0/1673946063227?e=1706140800&v=beta&t=iK714WXygmqqUgdO0Y2G2OVWtFW7oXOeAT7Urx58cWY
+LOGO:https\://healthicon.co/assets/images/side-1-526x95.png
 END:VCARD
